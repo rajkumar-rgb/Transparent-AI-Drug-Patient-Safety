@@ -81,9 +81,3 @@ MIT License
 ## Author
 Raj Kumar Paswan  
 B.Tech CSE (AI & ML)
-
----
-
-## Viva Statement
-This project implements a transparent AI system that predicts drug safety risk
-and explains the prediction to ensure trust and patient safety.
